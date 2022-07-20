@@ -1,5 +1,3 @@
-# Run Preview From here:
-https://felicioangga.github.io/Personal-Note-Dicoding/
 
 # Getting Started with Create React App
 
