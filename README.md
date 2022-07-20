@@ -1,3 +1,6 @@
+# Run Preview From here:
+https://felicioangga.github.io/Personal-Note-Dicoding/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
